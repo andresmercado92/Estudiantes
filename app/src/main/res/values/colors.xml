@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/ic_unimag_background</color>
+    <color name="colorPrimaryDark">#03B5EC</color>
+    <color name="colorAccent">#03DAC5</color>
+</resources>
